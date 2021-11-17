@@ -1,0 +1,35 @@
+body div {
+    color: black;  
+}
+
+h1 {
+	color: #E1D8CF;
+}
+
+h4 {
+	color: #E1D8CF;
+	background-color: #373741;
+}
+
+#global {
+    margin-top: 20px;
+}
+
+#part1 {
+	background-color: #E1D8CF;
+}
+
+#partnoir {
+	background-color: #373741;
+	margin-left: -12px;
+	margin-right: -12px;
+}
+
+.beige {
+	color: #E1D8CF;
+}
+
+#part2 {
+    float: left;
+    background-color: #FFFFFF;
+}
